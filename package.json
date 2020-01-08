@@ -1,12 +1,12 @@
 {
-  "name": "ebookseller",
+  "name": "stripenode",
   "version": "1.0.0",
   "description": "App to sell ebook",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
-  "author": "Brad Traversy",
+  "author": "Francisco Jaime Inoque",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.18.2",

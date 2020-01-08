@@ -34,7 +34,7 @@ app.post('/charge', (req, res) => {
   })
   .then(customer => stripe.charges.create({
     amount,
-    description: 'Web Development Ebook',
+    description: 'E-commerce Ebook',
     currency: 'usd',
     customer: customer.id
   }))

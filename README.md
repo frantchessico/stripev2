@@ -1,4 +1,4 @@
-# Ebook Seller App
+# Stripe Node App
 
 Node.js/ Express app that uses the Stripe API to sell an ebook
 
@@ -35,8 +35,8 @@ $ npm start
 
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+Francisco Jaime Inoque
+[SavanaPoint](https://savanapoint.com/)
 
 ### Version
 
